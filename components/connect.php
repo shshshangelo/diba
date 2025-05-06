@@ -1,6 +1,6 @@
 <?php
 
-$db_name = 'mysql:host=localhost;dbname=group3';
+$db_name = 'mysql:host=localhost;dbname=diba';
 $user_name = 'root';
 $user_password = '';
 
